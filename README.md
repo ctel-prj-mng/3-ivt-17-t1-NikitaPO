@@ -5,9 +5,9 @@
 
 ### 1.1. Прохождение базового обучающего мини-курса о работе с системой контроля версий Git «Try Git». Публикация ссылки на публичный профиль в Codeschool.
 
-
-
 ### 1.2. Создание диаграммы Ганта для организации проектной деятельности по разработке корпоративного сайта и анализ потенциальных рисков. Создание отчета-репозитория в GitHub, оформление с использованием разметки Markdown.
+
+[https://miro.com/welcomeonboard/qEfGV4XeXyjVUKjoDhuvTQUGP7Sx5EijHkxkJqvipUHAPJekSEItjx2kEipZX21r](https://miro.com/welcomeonboard/qEfGV4XeXyjVUKjoDhuvTQUGP7Sx5EijHkxkJqvipUHAPJekSEItjx2kEipZX21r)
 
 # Вариативная СР (ВСР)
 
