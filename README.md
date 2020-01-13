@@ -14,3 +14,5 @@
 # Вариативная СР (ВСР)
 
 ### 1.1. Анализ современных CSS-фреймворков для быстрого прототипирования интерфейсов. Создание презентации о наиболее эффективному фреймворку/технологии из проанализированных решений. Публичное выступление. 
+
+[https://docs.google.com/presentation/d/1hJdmRBbnOTUPeqjT_-miSQaVEAtvWTJuUWt3eROIphs/edit?usp=sharing](https://docs.google.com/presentation/d/1hJdmRBbnOTUPeqjT_-miSQaVEAtvWTJuUWt3eROIphs/edit?usp=sharing)
